@@ -2,6 +2,12 @@
 # MSILid4Exe
 MSI skin cover  creator for exe setup/installer
 
+**Usage**:     
+Edit ```MSILid4Exe.xml``` & Run ```MSILid4Exe.exe```       
+
+**Usage**:        
+>```MSILid4Exe.exe [config_file]``` - config_file (.xml) is optional
+
 ```
 **More Info**:
 - https://learn.microsoft.com/en-us/windows/win32/msi/orca-exe    
