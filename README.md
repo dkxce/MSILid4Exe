@@ -16,5 +16,8 @@ Edit ```MSILid4Exe.xml``` & Run ```MSILid4Exe.exe```
 - https://github.com/ironfede/openmcdf
 - https://www.exetomsi.com/freeware/     
 - https://www.revenera.com/install/products/installshield
-- https://en.wikipedia.org/wiki/WiX   
+- https://en.wikipedia.org/wiki/WiX
+- http://www.instedit.com/
+- https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b
+- https://dennisbareis.com/makemsi.htm            
  ```
