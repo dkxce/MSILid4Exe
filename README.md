@@ -1,4 +1,4 @@
-## EXE TO MSI CONVERTER ###
+## Free EXE TO MSI CONVERTER ###
 # MSILid4Exe
 MSI skin cover  creator for exe setup/installer
 
