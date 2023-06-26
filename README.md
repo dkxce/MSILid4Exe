@@ -22,4 +22,8 @@ Edit ```MSILid4Exe.xml``` & Run ```MSILid4Exe.exe```
 - https://dennisbareis.com/makemsi.htm            
  ```
 
-[Microsoft Compound File Binary Format]([MS-CFB].pdf)
+**Format**:          
+[Microsoft Compound File Binary Format]([MS-CFB].pdf)     
+
+**Resources for Setup Developers**:    
+[installsite.org](http://installsite.org/pages/en/msi/tips.htm)
