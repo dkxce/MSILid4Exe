@@ -1,0 +1,12 @@
+MSI Builder
+Обертывание EXE-дистрибутива в MSI файл
+
+template.msi - шаблон подготовленного msi файла с пустым exe'шником installer'а
+
+Софт для обертки:
+	
+	Apreltech Exe to Msi Converter Free :: https://www.exetomsi.com/freeware/
+	
+	Orca MSI Editor :: https://www.technipages.com/download-orca-msi-editor/
+	
+	Evenera InstallShield :: https://www.revenera.com/install/products/installshield

@@ -1,0 +1,2950 @@
+==================================================
+Function Name     : DllCanUnloadNow
+Address           : 0x0000000180153b60
+Relative Address  : 0x00153b60
+Ordinal           : 296 (0x128)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DllGetClassObject
+Address           : 0x00000001801056e0
+Relative Address  : 0x001056e0
+Ordinal           : 297 (0x129)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DllGetVersion
+Address           : 0x0000000180153ba0
+Relative Address  : 0x00153ba0
+Ordinal           : 182 (0xb6)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DllRegisterServer
+Address           : 0x0000000180160120
+Relative Address  : 0x00160120
+Ordinal           : 298 (0x12a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : DllUnregisterServer
+Address           : 0x0000000180160550
+Relative Address  : 0x00160550
+Ordinal           : 299 (0x12b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : Migrate10CachedPackagesA
+Address           : 0x00000001801682a0
+Relative Address  : 0x001682a0
+Ordinal           : 235 (0xeb)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : Migrate10CachedPackagesW
+Address           : 0x0000000180168300
+Relative Address  : 0x00168300
+Ordinal           : 236 (0xec)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiAdvertiseProductA
+Address           : 0x0000000180168360
+Relative Address  : 0x00168360
+Ordinal           : 5 (0x5)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiAdvertiseProductExA
+Address           : 0x0000000180168670
+Relative Address  : 0x00168670
+Ordinal           : 227 (0xe3)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiAdvertiseProductExW
+Address           : 0x00000001801689c0
+Relative Address  : 0x001689c0
+Ordinal           : 228 (0xe4)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiAdvertiseProductW
+Address           : 0x0000000180168bc0
+Relative Address  : 0x00168bc0
+Ordinal           : 6 (0x6)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiAdvertiseScriptA
+Address           : 0x0000000180168d70
+Relative Address  : 0x00168d70
+Ordinal           : 176 (0xb0)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiAdvertiseScriptW
+Address           : 0x0000000180168f30
+Relative Address  : 0x00168f30
+Ordinal           : 177 (0xb1)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiApplyMultiplePatchesA
+Address           : 0x0000000180174c90
+Relative Address  : 0x00174c90
+Ordinal           : 239 (0xef)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiApplyMultiplePatchesW
+Address           : 0x0000000180174ee0
+Relative Address  : 0x00174ee0
+Ordinal           : 240 (0xf0)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiApplyPatchA
+Address           : 0x0000000180169100
+Relative Address  : 0x00169100
+Ordinal           : 174 (0xae)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiApplyPatchW
+Address           : 0x0000000180169390
+Relative Address  : 0x00169390
+Ordinal           : 175 (0xaf)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiBeginTransactionA
+Address           : 0x0000000180175070
+Relative Address  : 0x00175070
+Ordinal           : 284 (0x11c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiBeginTransactionW
+Address           : 0x00000001801751a0
+Relative Address  : 0x001751a0
+Ordinal           : 285 (0x11d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCloseAllHandles
+Address           : 0x000000018017f220
+Relative Address  : 0x0017f220
+Ordinal           : 7 (0x7)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCloseHandle
+Address           : 0x0000000180020ab0
+Relative Address  : 0x00020ab0
+Ordinal           : 8 (0x8)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCollectUserInfoA
+Address           : 0x0000000180169510
+Relative Address  : 0x00169510
+Ordinal           : 9 (0x9)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCollectUserInfoW
+Address           : 0x00000001801696c0
+Relative Address  : 0x001696c0
+Ordinal           : 10 (0xa)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureFeatureA
+Address           : 0x00000001801697e0
+Relative Address  : 0x001697e0
+Ordinal           : 11 (0xb)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureFeatureFromDescriptorA
+Address           : 0x0000000180169a20
+Relative Address  : 0x00169a20
+Ordinal           : 12 (0xc)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureFeatureFromDescriptorW
+Address           : 0x0000000180169c30
+Relative Address  : 0x00169c30
+Ordinal           : 13 (0xd)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureFeatureW
+Address           : 0x0000000180169e00
+Relative Address  : 0x00169e00
+Ordinal           : 14 (0xe)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureProductA
+Address           : 0x0000000180169f60
+Relative Address  : 0x00169f60
+Ordinal           : 15 (0xf)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureProductExA
+Address           : 0x000000018016a040
+Relative Address  : 0x0016a040
+Ordinal           : 189 (0xbd)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureProductExW
+Address           : 0x000000018016a4e0
+Relative Address  : 0x0016a4e0
+Ordinal           : 190 (0xbe)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiConfigureProductW
+Address           : 0x000000018016a8d0
+Relative Address  : 0x0016a8d0
+Ordinal           : 16 (0x10)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCreateAndVerifyInstallerDirectory
+Address           : 0x000000018016a9c0
+Relative Address  : 0x0016a9c0
+Ordinal           : 222 (0xde)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCreateRecord
+Address           : 0x0000000180045330
+Relative Address  : 0x00045330
+Ordinal           : 17 (0x11)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCreateTransformSummaryInfoA
+Address           : 0x000000018017f2b0
+Relative Address  : 0x0017f2b0
+Ordinal           : 185 (0xb9)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiCreateTransformSummaryInfoW
+Address           : 0x000000018017f350
+Relative Address  : 0x0017f350
+Ordinal           : 186 (0xba)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseApplyTransformA
+Address           : 0x0000000180180290
+Relative Address  : 0x00180290
+Ordinal           : 18 (0x12)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseApplyTransformW
+Address           : 0x0000000180180330
+Relative Address  : 0x00180330
+Ordinal           : 19 (0x13)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseCommit
+Address           : 0x00000001801804f0
+Relative Address  : 0x001804f0
+Ordinal           : 20 (0x14)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseExportA
+Address           : 0x00000001801805c0
+Relative Address  : 0x001805c0
+Ordinal           : 21 (0x15)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseExportW
+Address           : 0x0000000180180710
+Relative Address  : 0x00180710
+Ordinal           : 22 (0x16)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseGenerateTransformA
+Address           : 0x0000000180180890
+Relative Address  : 0x00180890
+Ordinal           : 23 (0x17)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseGenerateTransformW
+Address           : 0x0000000180180940
+Relative Address  : 0x00180940
+Ordinal           : 24 (0x18)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseGetPrimaryKeysA
+Address           : 0x0000000180180ae0
+Relative Address  : 0x00180ae0
+Ordinal           : 25 (0x19)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseGetPrimaryKeysW
+Address           : 0x0000000180045610
+Relative Address  : 0x00045610
+Ordinal           : 26 (0x1a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseImportA
+Address           : 0x0000000180180b80
+Relative Address  : 0x00180b80
+Ordinal           : 27 (0x1b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseImportW
+Address           : 0x0000000180180c80
+Relative Address  : 0x00180c80
+Ordinal           : 28 (0x1c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseIsTablePersistentA
+Address           : 0x0000000180180dd0
+Relative Address  : 0x00180dd0
+Ordinal           : 164 (0xa4)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseIsTablePersistentW
+Address           : 0x0000000180180e70
+Relative Address  : 0x00180e70
+Ordinal           : 165 (0xa5)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseMergeA
+Address           : 0x0000000180181010
+Relative Address  : 0x00181010
+Ordinal           : 29 (0x1d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseMergeW
+Address           : 0x00000001801810b0
+Relative Address  : 0x001810b0
+Ordinal           : 30 (0x1e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseOpenViewA
+Address           : 0x00000001801812e0
+Relative Address  : 0x001812e0
+Ordinal           : 31 (0x1f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDatabaseOpenViewW
+Address           : 0x00000001800203b0
+Relative Address  : 0x000203b0
+Ordinal           : 32 (0x20)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDecomposeDescriptorA
+Address           : 0x000000018016aa70
+Relative Address  : 0x0016aa70
+Ordinal           : 200 (0xc8)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDecomposeDescriptorW
+Address           : 0x000000018013ecb0
+Relative Address  : 0x0013ecb0
+Ordinal           : 201 (0xc9)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDeleteUserDataA
+Address           : 0x000000018016ab10
+Relative Address  : 0x0016ab10
+Ordinal           : 233 (0xe9)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDeleteUserDataW
+Address           : 0x000000018016ac30
+Relative Address  : 0x0016ac30
+Ordinal           : 234 (0xea)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDetermineApplicablePatchesA
+Address           : 0x0000000180175670
+Relative Address  : 0x00175670
+Ordinal           : 277 (0x115)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDetermineApplicablePatchesW
+Address           : 0x0000000180175a40
+Relative Address  : 0x00175a40
+Ordinal           : 278 (0x116)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDeterminePatchSequenceA
+Address           : 0x0000000180175d50
+Relative Address  : 0x00175d50
+Ordinal           : 253 (0xfd)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDeterminePatchSequenceW
+Address           : 0x0000000180113ef0
+Relative Address  : 0x00113ef0
+Ordinal           : 254 (0xfe)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDoActionA
+Address           : 0x0000000180181380
+Relative Address  : 0x00181380
+Ordinal           : 33 (0x21)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiDoActionW
+Address           : 0x0000000180181410
+Relative Address  : 0x00181410
+Ordinal           : 34 (0x22)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnableLogA
+Address           : 0x000000018016b1b0
+Relative Address  : 0x0016b1b0
+Ordinal           : 168 (0xa8)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnableLogW
+Address           : 0x000000018016b310
+Relative Address  : 0x0016b310
+Ordinal           : 169 (0xa9)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnableUIPreview
+Address           : 0x00000001801814f0
+Relative Address  : 0x001814f0
+Ordinal           : 35 (0x23)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEndTransaction
+Address           : 0x0000000180176160
+Relative Address  : 0x00176160
+Ordinal           : 286 (0x11e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumClientsA
+Address           : 0x00000001800441d0
+Relative Address  : 0x000441d0
+Ordinal           : 36 (0x24)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumClientsExA
+Address           : 0x0000000180176380
+Relative Address  : 0x00176380
+Ordinal           : 291 (0x123)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumClientsExW
+Address           : 0x0000000180176660
+Relative Address  : 0x00176660
+Ordinal           : 292 (0x124)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumClientsW
+Address           : 0x0000000180070380
+Relative Address  : 0x00070380
+Ordinal           : 37 (0x25)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentCostsA
+Address           : 0x0000000180181670
+Relative Address  : 0x00181670
+Ordinal           : 220 (0xdc)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentCostsW
+Address           : 0x0000000180181900
+Relative Address  : 0x00181900
+Ordinal           : 221 (0xdd)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentQualifiersA
+Address           : 0x000000018016b3e0
+Relative Address  : 0x0016b3e0
+Ordinal           : 38 (0x26)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentQualifiersW
+Address           : 0x000000018006e900
+Relative Address  : 0x0006e900
+Ordinal           : 39 (0x27)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentsA
+Address           : 0x000000018016bb50
+Relative Address  : 0x0016bb50
+Ordinal           : 40 (0x28)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentsExA
+Address           : 0x00000001801767b0
+Relative Address  : 0x001767b0
+Ordinal           : 289 (0x121)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentsExW
+Address           : 0x0000000180176a30
+Relative Address  : 0x00176a30
+Ordinal           : 290 (0x122)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumComponentsW
+Address           : 0x000000018012bf00
+Relative Address  : 0x0012bf00
+Ordinal           : 41 (0x29)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumFeaturesA
+Address           : 0x000000018016bbb0
+Relative Address  : 0x0016bbb0
+Ordinal           : 42 (0x2a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumFeaturesW
+Address           : 0x00000001800665e0
+Relative Address  : 0x000665e0
+Ordinal           : 43 (0x2b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumPatchesA
+Address           : 0x0000000180176b60
+Relative Address  : 0x00176b60
+Ordinal           : 180 (0xb4)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumPatchesExA
+Address           : 0x0000000180176dc0
+Relative Address  : 0x00176dc0
+Ordinal           : 269 (0x10d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumPatchesExW
+Address           : 0x000000018010d480
+Relative Address  : 0x0010d480
+Ordinal           : 270 (0x10e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumPatchesW
+Address           : 0x0000000180177150
+Relative Address  : 0x00177150
+Ordinal           : 181 (0xb5)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumProductsA
+Address           : 0x000000018016be20
+Relative Address  : 0x0016be20
+Ordinal           : 44 (0x2c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumProductsExA
+Address           : 0x0000000180177330
+Relative Address  : 0x00177330
+Ordinal           : 245 (0xf5)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumProductsExW
+Address           : 0x0000000180116ad0
+Relative Address  : 0x00116ad0
+Ordinal           : 246 (0xf6)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumProductsW
+Address           : 0x000000018006e8a0
+Relative Address  : 0x0006e8a0
+Ordinal           : 45 (0x2d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumRelatedProductsA
+Address           : 0x000000018016be80
+Relative Address  : 0x0016be80
+Ordinal           : 204 (0xcc)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEnumRelatedProductsW
+Address           : 0x00000001800f5960
+Relative Address  : 0x000f5960
+Ordinal           : 205 (0xcd)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEvaluateConditionA
+Address           : 0x0000000180181b70
+Relative Address  : 0x00181b70
+Ordinal           : 46 (0x2e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiEvaluateConditionW
+Address           : 0x00000001801296d0
+Relative Address  : 0x001296d0
+Ordinal           : 47 (0x2f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiExtractPatchXMLDataA
+Address           : 0x0000000180177660
+Relative Address  : 0x00177660
+Ordinal           : 241 (0xf1)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiExtractPatchXMLDataW
+Address           : 0x0000000180177830
+Relative Address  : 0x00177830
+Ordinal           : 242 (0xf2)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiFormatRecordA
+Address           : 0x0000000180181c00
+Relative Address  : 0x00181c00
+Ordinal           : 170 (0xaa)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiFormatRecordW
+Address           : 0x0000000180044a30
+Relative Address  : 0x00044a30
+Ordinal           : 171 (0xab)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetActiveDatabase
+Address           : 0x000000018012ab00
+Relative Address  : 0x0012ab00
+Ordinal           : 49 (0x31)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetComponentPathA
+Address           : 0x000000018016bf20
+Relative Address  : 0x0016bf20
+Ordinal           : 172 (0xac)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetComponentPathExA
+Address           : 0x0000000180177ab0
+Relative Address  : 0x00177ab0
+Ordinal           : 293 (0x125)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetComponentPathExW
+Address           : 0x0000000180177d60
+Relative Address  : 0x00177d60
+Ordinal           : 294 (0x126)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetComponentPathW
+Address           : 0x0000000180080970
+Relative Address  : 0x00080970
+Ordinal           : 173 (0xad)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetComponentStateA
+Address           : 0x0000000180181d50
+Relative Address  : 0x00181d50
+Ordinal           : 50 (0x32)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetComponentStateW
+Address           : 0x0000000180045400
+Relative Address  : 0x00045400
+Ordinal           : 51 (0x33)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetDatabaseState
+Address           : 0x0000000180181eb0
+Relative Address  : 0x00181eb0
+Ordinal           : 52 (0x34)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureCostA
+Address           : 0x0000000180181f10
+Relative Address  : 0x00181f10
+Ordinal           : 53 (0x35)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureCostW
+Address           : 0x0000000180182080
+Relative Address  : 0x00182080
+Ordinal           : 54 (0x36)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureInfoA
+Address           : 0x000000018016c3d0
+Relative Address  : 0x0016c3d0
+Ordinal           : 55 (0x37)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureInfoW
+Address           : 0x000000018016c670
+Relative Address  : 0x0016c670
+Ordinal           : 56 (0x38)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureStateA
+Address           : 0x0000000180182200
+Relative Address  : 0x00182200
+Ordinal           : 57 (0x39)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureStateW
+Address           : 0x0000000180182350
+Relative Address  : 0x00182350
+Ordinal           : 58 (0x3a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureUsageA
+Address           : 0x000000018016cb50
+Relative Address  : 0x0016cb50
+Ordinal           : 59 (0x3b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureUsageW
+Address           : 0x000000018016cce0
+Relative Address  : 0x0016cce0
+Ordinal           : 60 (0x3c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureValidStatesA
+Address           : 0x0000000180182410
+Relative Address  : 0x00182410
+Ordinal           : 61 (0x3d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFeatureValidStatesW
+Address           : 0x00000001801824b0
+Relative Address  : 0x001824b0
+Ordinal           : 62 (0x3e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFileHashA
+Address           : 0x000000018016ce70
+Relative Address  : 0x0016ce70
+Ordinal           : 218 (0xda)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFileHashW
+Address           : 0x000000018016cf80
+Relative Address  : 0x0016cf80
+Ordinal           : 219 (0xdb)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFileSignatureInformationA
+Address           : 0x000000018016cff0
+Relative Address  : 0x0016cff0
+Ordinal           : 223 (0xdf)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFileSignatureInformationW
+Address           : 0x000000018016d1a0
+Relative Address  : 0x0016d1a0
+Ordinal           : 224 (0xe0)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFileVersionA
+Address           : 0x000000018016d2f0
+Relative Address  : 0x0016d2f0
+Ordinal           : 194 (0xc2)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetFileVersionW
+Address           : 0x0000000180019f30
+Relative Address  : 0x00019f30
+Ordinal           : 195 (0xc3)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetLanguage
+Address           : 0x0000000180182630
+Relative Address  : 0x00182630
+Ordinal           : 63 (0x3f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetLastErrorRecord
+Address           : 0x00000001801826e0
+Relative Address  : 0x001826e0
+Ordinal           : 48 (0x30)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetMode
+Address           : 0x0000000180182780
+Relative Address  : 0x00182780
+Ordinal           : 64 (0x40)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPatchFileListA
+Address           : 0x0000000180177ea0
+Relative Address  : 0x00177ea0
+Ordinal           : 282 (0x11a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPatchFileListW
+Address           : 0x0000000180178040
+Relative Address  : 0x00178040
+Ordinal           : 283 (0x11b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPatchInfoA
+Address           : 0x000000018016d870
+Relative Address  : 0x0016d870
+Ordinal           : 178 (0xb2)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPatchInfoExA
+Address           : 0x0000000180178a30
+Relative Address  : 0x00178a30
+Ordinal           : 243 (0xf3)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPatchInfoExW
+Address           : 0x0000000180025fd0
+Relative Address  : 0x00025fd0
+Ordinal           : 244 (0xf4)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPatchInfoW
+Address           : 0x000000018006a860
+Relative Address  : 0x0006a860
+Ordinal           : 179 (0xb3)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductCodeA
+Address           : 0x0000000180043d40
+Relative Address  : 0x00043d40
+Ordinal           : 65 (0x41)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductCodeFromPackageCodeA
+Address           : 0x000000018016d980
+Relative Address  : 0x0016d980
+Ordinal           : 183 (0xb7)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductCodeFromPackageCodeW
+Address           : 0x00000001800705d0
+Relative Address  : 0x000705d0
+Ordinal           : 184 (0xb8)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductCodeW
+Address           : 0x0000000180044280
+Relative Address  : 0x00044280
+Ordinal           : 66 (0x42)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductInfoA
+Address           : 0x000000018016db90
+Relative Address  : 0x0016db90
+Ordinal           : 67 (0x43)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductInfoExA
+Address           : 0x0000000180178d30
+Relative Address  : 0x00178d30
+Ordinal           : 247 (0xf7)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductInfoExW
+Address           : 0x0000000180021380
+Relative Address  : 0x00021380
+Ordinal           : 248 (0xf8)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductInfoFromScriptA
+Address           : 0x000000018016dd50
+Relative Address  : 0x0016dd50
+Ordinal           : 68 (0x44)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductInfoFromScriptW
+Address           : 0x000000018016e170
+Relative Address  : 0x0016e170
+Ordinal           : 69 (0x45)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductInfoW
+Address           : 0x0000000180023f00
+Relative Address  : 0x00023f00
+Ordinal           : 70 (0x46)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductPropertyA
+Address           : 0x000000018016e510
+Relative Address  : 0x0016e510
+Ordinal           : 71 (0x47)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetProductPropertyW
+Address           : 0x0000000180044750
+Relative Address  : 0x00044750
+Ordinal           : 72 (0x48)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPropertyA
+Address           : 0x00000001801828d0
+Relative Address  : 0x001828d0
+Ordinal           : 73 (0x49)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetPropertyW
+Address           : 0x0000000180045da0
+Relative Address  : 0x00045da0
+Ordinal           : 74 (0x4a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetShortcutTargetA
+Address           : 0x000000018016ea70
+Relative Address  : 0x0016ea70
+Ordinal           : 216 (0xd8)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetShortcutTargetW
+Address           : 0x000000018016ed80
+Relative Address  : 0x0016ed80
+Ordinal           : 217 (0xd9)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetSourcePathA
+Address           : 0x0000000180182be0
+Relative Address  : 0x00182be0
+Ordinal           : 75 (0x4b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetSourcePathW
+Address           : 0x0000000180182e40
+Relative Address  : 0x00182e40
+Ordinal           : 76 (0x4c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetSummaryInformationA
+Address           : 0x0000000180183070
+Relative Address  : 0x00183070
+Ordinal           : 77 (0x4d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetSummaryInformationW
+Address           : 0x0000000180104370
+Relative Address  : 0x00104370
+Ordinal           : 78 (0x4e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetTargetPathA
+Address           : 0x0000000180183110
+Relative Address  : 0x00183110
+Ordinal           : 79 (0x4f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetTargetPathW
+Address           : 0x0000000180183370
+Relative Address  : 0x00183370
+Ordinal           : 80 (0x50)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetUserInfoA
+Address           : 0x000000018016f070
+Relative Address  : 0x0016f070
+Ordinal           : 81 (0x51)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiGetUserInfoW
+Address           : 0x00000001800668f0
+Relative Address  : 0x000668f0
+Ordinal           : 82 (0x52)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiInstallMissingComponentA
+Address           : 0x000000018016f300
+Relative Address  : 0x0016f300
+Ordinal           : 83 (0x53)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiInstallMissingComponentW
+Address           : 0x000000018016f6b0
+Relative Address  : 0x0016f6b0
+Ordinal           : 84 (0x54)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiInstallMissingFileA
+Address           : 0x000000018016f950
+Relative Address  : 0x0016f950
+Ordinal           : 85 (0x55)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiInstallMissingFileW
+Address           : 0x000000018016fc70
+Relative Address  : 0x0016fc70
+Ordinal           : 86 (0x56)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiInstallProductA
+Address           : 0x000000018016fee0
+Relative Address  : 0x0016fee0
+Ordinal           : 87 (0x57)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiInstallProductW
+Address           : 0x0000000180170160
+Relative Address  : 0x00170160
+Ordinal           : 88 (0x58)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiInvalidateFeatureCache
+Address           : 0x000000018013ec30
+Relative Address  : 0x0013ec30
+Ordinal           : 191 (0xbf)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiIsProductElevatedA
+Address           : 0x0000000180170310
+Relative Address  : 0x00170310
+Ordinal           : 214 (0xd6)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiIsProductElevatedW
+Address           : 0x0000000180065790
+Relative Address  : 0x00065790
+Ordinal           : 215 (0xd7)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiJoinTransaction
+Address           : 0x0000000180178fe0
+Relative Address  : 0x00178fe0
+Ordinal           : 287 (0x11f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiLoadStringA
+Address           : 0x0000000180170550
+Relative Address  : 0x00170550
+Ordinal           : 196 (0xc4)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiLoadStringW
+Address           : 0x00000001800dc720
+Relative Address  : 0x000dc720
+Ordinal           : 197 (0xc5)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiLocateComponentA
+Address           : 0x00000001801706f0
+Relative Address  : 0x001706f0
+Ordinal           : 89 (0x59)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiLocateComponentW
+Address           : 0x0000000180044600
+Relative Address  : 0x00044600
+Ordinal           : 90 (0x5a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiMessageBoxA
+Address           : 0x0000000180170830
+Relative Address  : 0x00170830
+Ordinal           : 198 (0xc6)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiMessageBoxExA
+Address           : 0x0000000180170860
+Relative Address  : 0x00170860
+Ordinal           : 279 (0x117)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiMessageBoxExW
+Address           : 0x0000000180170b30
+Relative Address  : 0x00170b30
+Ordinal           : 280 (0x118)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiMessageBoxW
+Address           : 0x0000000180170d20
+Relative Address  : 0x00170d20
+Ordinal           : 199 (0xc7)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiNotifySidChangeA
+Address           : 0x0000000180170d50
+Relative Address  : 0x00170d50
+Ordinal           : 229 (0xe5)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiNotifySidChangeW
+Address           : 0x0000000180170e60
+Relative Address  : 0x00170e60
+Ordinal           : 230 (0xe6)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenDatabaseA
+Address           : 0x00000001801835a0
+Relative Address  : 0x001835a0
+Ordinal           : 91 (0x5b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenDatabaseW
+Address           : 0x00000001800201a0
+Relative Address  : 0x000201a0
+Ordinal           : 92 (0x5c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenPackageA
+Address           : 0x0000000180171020
+Relative Address  : 0x00171020
+Ordinal           : 93 (0x5d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenPackageExA
+Address           : 0x00000001801710f0
+Relative Address  : 0x001710f0
+Ordinal           : 231 (0xe7)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenPackageExW
+Address           : 0x00000001801711d0
+Relative Address  : 0x001711d0
+Ordinal           : 232 (0xe8)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenPackageW
+Address           : 0x00000001801712c0
+Relative Address  : 0x001712c0
+Ordinal           : 94 (0x5e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenProductA
+Address           : 0x00000001801713a0
+Relative Address  : 0x001713a0
+Ordinal           : 95 (0x5f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiOpenProductW
+Address           : 0x00000001801209b0
+Relative Address  : 0x001209b0
+Ordinal           : 96 (0x60)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiPreviewBillboardA
+Address           : 0x00000001801836e0
+Relative Address  : 0x001836e0
+Ordinal           : 97 (0x61)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiPreviewBillboardW
+Address           : 0x00000001801837e0
+Relative Address  : 0x001837e0
+Ordinal           : 98 (0x62)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiPreviewDialogA
+Address           : 0x00000001801838d0
+Relative Address  : 0x001838d0
+Ordinal           : 99 (0x63)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiPreviewDialogW
+Address           : 0x0000000180183960
+Relative Address  : 0x00183960
+Ordinal           : 100 (0x64)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProcessAdvertiseScriptA
+Address           : 0x00000001801714f0
+Relative Address  : 0x001714f0
+Ordinal           : 101 (0x65)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProcessAdvertiseScriptW
+Address           : 0x0000000180171660
+Relative Address  : 0x00171660
+Ordinal           : 102 (0x66)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProcessMessage
+Address           : 0x0000000180047be0
+Relative Address  : 0x00047be0
+Ordinal           : 103 (0x67)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideAssemblyA
+Address           : 0x00000001801717f0
+Relative Address  : 0x001717f0
+Ordinal           : 225 (0xe1)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideAssemblyW
+Address           : 0x00000001800247b0
+Relative Address  : 0x000247b0
+Ordinal           : 226 (0xe2)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideComponentA
+Address           : 0x0000000180171ea0
+Relative Address  : 0x00171ea0
+Ordinal           : 104 (0x68)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideComponentFromDescriptorA
+Address           : 0x0000000180172090
+Relative Address  : 0x00172090
+Ordinal           : 105 (0x69)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideComponentFromDescriptorW
+Address           : 0x00000001801721a0
+Relative Address  : 0x001721a0
+Ordinal           : 106 (0x6a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideComponentW
+Address           : 0x00000001801722d0
+Relative Address  : 0x001722d0
+Ordinal           : 107 (0x6b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideQualifiedComponentA
+Address           : 0x00000001801724e0
+Relative Address  : 0x001724e0
+Ordinal           : 108 (0x6c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideQualifiedComponentExA
+Address           : 0x0000000180033d40
+Relative Address  : 0x00033d40
+Ordinal           : 202 (0xca)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideQualifiedComponentExW
+Address           : 0x0000000180070ce0
+Relative Address  : 0x00070ce0
+Ordinal           : 203 (0xcb)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiProvideQualifiedComponentW
+Address           : 0x0000000180172520
+Relative Address  : 0x00172520
+Ordinal           : 109 (0x6d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryComponentStateA
+Address           : 0x0000000180179600
+Relative Address  : 0x00179600
+Ordinal           : 249 (0xf9)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryComponentStateW
+Address           : 0x0000000180179800
+Relative Address  : 0x00179800
+Ordinal           : 250 (0xfa)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryFeatureStateA
+Address           : 0x0000000180172560
+Relative Address  : 0x00172560
+Ordinal           : 110 (0x6e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryFeatureStateExA
+Address           : 0x0000000180179950
+Relative Address  : 0x00179950
+Ordinal           : 251 (0xfb)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryFeatureStateExW
+Address           : 0x0000000180122450
+Relative Address  : 0x00122450
+Ordinal           : 252 (0xfc)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryFeatureStateFromDescriptorA
+Address           : 0x00000001801726c0
+Relative Address  : 0x001726c0
+Ordinal           : 187 (0xbb)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryFeatureStateFromDescriptorW
+Address           : 0x0000000180172860
+Relative Address  : 0x00172860
+Ordinal           : 188 (0xbc)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryFeatureStateW
+Address           : 0x00000001800f30b0
+Relative Address  : 0x000f30b0
+Ordinal           : 111 (0x6f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryProductStateA
+Address           : 0x0000000180172a10
+Relative Address  : 0x00172a10
+Ordinal           : 112 (0x70)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiQueryProductStateW
+Address           : 0x000000018002d070
+Relative Address  : 0x0002d070
+Ordinal           : 113 (0x71)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordClearData
+Address           : 0x00000001801839d0
+Relative Address  : 0x001839d0
+Ordinal           : 167 (0xa7)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordDataSize
+Address           : 0x0000000180183a40
+Relative Address  : 0x00183a40
+Ordinal           : 114 (0x72)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordGetFieldCount
+Address           : 0x0000000180108bb0
+Relative Address  : 0x00108bb0
+Ordinal           : 115 (0x73)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordGetInteger
+Address           : 0x000000018001fe00
+Relative Address  : 0x0001fe00
+Ordinal           : 116 (0x74)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordGetStringA
+Address           : 0x0000000180183b90
+Relative Address  : 0x00183b90
+Ordinal           : 117 (0x75)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordGetStringW
+Address           : 0x00000001800472a0
+Relative Address  : 0x000472a0
+Ordinal           : 118 (0x76)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordIsNull
+Address           : 0x000000018001fa00
+Relative Address  : 0x0001fa00
+Ordinal           : 119 (0x77)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordReadStream
+Address           : 0x0000000180119950
+Relative Address  : 0x00119950
+Ordinal           : 120 (0x78)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordSetInteger
+Address           : 0x0000000180045840
+Relative Address  : 0x00045840
+Ordinal           : 121 (0x79)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordSetStreamA
+Address           : 0x0000000180183d70
+Relative Address  : 0x00183d70
+Ordinal           : 122 (0x7a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordSetStreamW
+Address           : 0x0000000180183e10
+Relative Address  : 0x00183e10
+Ordinal           : 123 (0x7b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordSetStringA
+Address           : 0x0000000180184010
+Relative Address  : 0x00184010
+Ordinal           : 124 (0x7c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRecordSetStringW
+Address           : 0x0000000180047630
+Relative Address  : 0x00047630
+Ordinal           : 125 (0x7d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiReinstallFeatureA
+Address           : 0x0000000180034a70
+Relative Address  : 0x00034a70
+Ordinal           : 126 (0x7e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiReinstallFeatureFromDescriptorA
+Address           : 0x0000000180172d70
+Relative Address  : 0x00172d70
+Ordinal           : 127 (0x7f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiReinstallFeatureFromDescriptorW
+Address           : 0x0000000180172f80
+Relative Address  : 0x00172f80
+Ordinal           : 128 (0x80)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiReinstallFeatureW
+Address           : 0x0000000180173150
+Relative Address  : 0x00173150
+Ordinal           : 129 (0x81)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiReinstallProductA
+Address           : 0x00000001801732b0
+Relative Address  : 0x001732b0
+Ordinal           : 130 (0x82)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiReinstallProductW
+Address           : 0x0000000180173460
+Relative Address  : 0x00173460
+Ordinal           : 131 (0x83)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRemovePatchesA
+Address           : 0x0000000180179b50
+Relative Address  : 0x00179b50
+Ordinal           : 237 (0xed)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiRemovePatchesW
+Address           : 0x0000000180179d20
+Relative Address  : 0x00179d20
+Ordinal           : 238 (0xee)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSequenceA
+Address           : 0x00000001801841a0
+Relative Address  : 0x001841a0
+Ordinal           : 132 (0x84)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSequenceW
+Address           : 0x0000000180184240
+Relative Address  : 0x00184240
+Ordinal           : 133 (0x85)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetComponentStateA
+Address           : 0x0000000180184350
+Relative Address  : 0x00184350
+Ordinal           : 134 (0x86)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetComponentStateW
+Address           : 0x00000001801844b0
+Relative Address  : 0x001844b0
+Ordinal           : 135 (0x87)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetExternalUIA
+Address           : 0x0000000180173590
+Relative Address  : 0x00173590
+Ordinal           : 136 (0x88)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetExternalUIRecord
+Address           : 0x0000000180179ec0
+Relative Address  : 0x00179ec0
+Ordinal           : 281 (0x119)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetExternalUIW
+Address           : 0x0000000180133380
+Relative Address  : 0x00133380
+Ordinal           : 137 (0x89)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetFeatureAttributesA
+Address           : 0x00000001801845d0
+Relative Address  : 0x001845d0
+Ordinal           : 206 (0xce)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetFeatureAttributesW
+Address           : 0x0000000180184730
+Relative Address  : 0x00184730
+Ordinal           : 207 (0xcf)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetFeatureStateA
+Address           : 0x00000001801848a0
+Relative Address  : 0x001848a0
+Ordinal           : 138 (0x8a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetFeatureStateW
+Address           : 0x0000000180184a00
+Relative Address  : 0x00184a00
+Ordinal           : 139 (0x8b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetInstallLevel
+Address           : 0x0000000180184b70
+Relative Address  : 0x00184b70
+Ordinal           : 140 (0x8c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetInternalUI
+Address           : 0x0000000180128d50
+Relative Address  : 0x00128d50
+Ordinal           : 141 (0x8d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetMode
+Address           : 0x0000000180184c50
+Relative Address  : 0x00184c50
+Ordinal           : 143 (0x8f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetOfflineContextW
+Address           : 0x0000000180186dc0
+Relative Address  : 0x00186dc0
+Ordinal           : 288 (0x120)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetPropertyA
+Address           : 0x0000000180184da0
+Relative Address  : 0x00184da0
+Ordinal           : 144 (0x90)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetPropertyW
+Address           : 0x0000000180185070
+Relative Address  : 0x00185070
+Ordinal           : 145 (0x91)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetTargetPathA
+Address           : 0x00000001801852c0
+Relative Address  : 0x001852c0
+Ordinal           : 146 (0x92)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSetTargetPathW
+Address           : 0x0000000180185540
+Relative Address  : 0x00185540
+Ordinal           : 147 (0x93)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListAddMediaDiskA
+Address           : 0x0000000180179f50
+Relative Address  : 0x00179f50
+Ordinal           : 273 (0x111)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListAddMediaDiskW
+Address           : 0x000000018017a200
+Relative Address  : 0x0017a200
+Ordinal           : 274 (0x112)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListAddSourceA
+Address           : 0x00000001801735b0
+Relative Address  : 0x001735b0
+Ordinal           : 210 (0xd2)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListAddSourceExA
+Address           : 0x000000018017a3d0
+Relative Address  : 0x0017a3d0
+Ordinal           : 255 (0xff)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListAddSourceExW
+Address           : 0x000000018017a5d0
+Relative Address  : 0x0017a5d0
+Ordinal           : 256 (0x100)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListAddSourceW
+Address           : 0x0000000180173800
+Relative Address  : 0x00173800
+Ordinal           : 211 (0xd3)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearAllA
+Address           : 0x0000000180173930
+Relative Address  : 0x00173930
+Ordinal           : 208 (0xd0)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearAllExA
+Address           : 0x000000018017a720
+Relative Address  : 0x0017a720
+Ordinal           : 259 (0x103)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearAllExW
+Address           : 0x000000018017a8f0
+Relative Address  : 0x0017a8f0
+Ordinal           : 260 (0x104)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearAllW
+Address           : 0x0000000180173b10
+Relative Address  : 0x00173b10
+Ordinal           : 209 (0xd1)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearMediaDiskA
+Address           : 0x000000018017aa30
+Relative Address  : 0x0017aa30
+Ordinal           : 275 (0x113)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearMediaDiskW
+Address           : 0x000000018017ac00
+Relative Address  : 0x0017ac00
+Ordinal           : 276 (0x114)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearSourceA
+Address           : 0x000000018017ad50
+Relative Address  : 0x0017ad50
+Ordinal           : 257 (0x101)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListClearSourceW
+Address           : 0x000000018017af50
+Relative Address  : 0x0017af50
+Ordinal           : 258 (0x102)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListEnumMediaDisksA
+Address           : 0x000000018017b0a0
+Relative Address  : 0x0017b0a0
+Ordinal           : 271 (0x10f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListEnumMediaDisksW
+Address           : 0x000000018017b3b0
+Relative Address  : 0x0017b3b0
+Ordinal           : 272 (0x110)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListEnumSourcesA
+Address           : 0x000000018017b520
+Relative Address  : 0x0017b520
+Ordinal           : 263 (0x107)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListEnumSourcesW
+Address           : 0x000000018017b7a0
+Relative Address  : 0x0017b7a0
+Ordinal           : 264 (0x108)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListForceResolutionA
+Address           : 0x0000000180173c20
+Relative Address  : 0x00173c20
+Ordinal           : 212 (0xd4)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListForceResolutionExA
+Address           : 0x000000018017b900
+Relative Address  : 0x0017b900
+Ordinal           : 261 (0x105)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListForceResolutionExW
+Address           : 0x000000018017bab0
+Relative Address  : 0x0017bab0
+Ordinal           : 262 (0x106)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListForceResolutionW
+Address           : 0x0000000180173e00
+Relative Address  : 0x00173e00
+Ordinal           : 213 (0xd5)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListGetInfoA
+Address           : 0x000000018017bbf0
+Relative Address  : 0x0017bbf0
+Ordinal           : 265 (0x109)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListGetInfoW
+Address           : 0x000000018017beb0
+Relative Address  : 0x0017beb0
+Ordinal           : 266 (0x10a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListSetInfoA
+Address           : 0x000000018017c000
+Relative Address  : 0x0017c000
+Ordinal           : 267 (0x10b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSourceListSetInfoW
+Address           : 0x000000018017c220
+Relative Address  : 0x0017c220
+Ordinal           : 268 (0x10c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSummaryInfoGetPropertyA
+Address           : 0x0000000180185730
+Relative Address  : 0x00185730
+Ordinal           : 148 (0x94)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSummaryInfoGetPropertyCount
+Address           : 0x00000001801858e0
+Relative Address  : 0x001858e0
+Ordinal           : 149 (0x95)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSummaryInfoGetPropertyW
+Address           : 0x00000001801859b0
+Relative Address  : 0x001859b0
+Ordinal           : 150 (0x96)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSummaryInfoPersist
+Address           : 0x0000000180185b60
+Relative Address  : 0x00185b60
+Ordinal           : 151 (0x97)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSummaryInfoSetPropertyA
+Address           : 0x0000000180185c20
+Relative Address  : 0x00185c20
+Ordinal           : 152 (0x98)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiSummaryInfoSetPropertyW
+Address           : 0x0000000180185d00
+Relative Address  : 0x00185d00
+Ordinal           : 153 (0x99)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiUseFeatureA
+Address           : 0x0000000180173f10
+Relative Address  : 0x00173f10
+Ordinal           : 154 (0x9a)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiUseFeatureExA
+Address           : 0x0000000180173f30
+Relative Address  : 0x00173f30
+Ordinal           : 192 (0xc0)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiUseFeatureExW
+Address           : 0x0000000180174120
+Relative Address  : 0x00174120
+Ordinal           : 193 (0xc1)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiUseFeatureW
+Address           : 0x00000001801742c0
+Relative Address  : 0x001742c0
+Ordinal           : 155 (0x9b)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiVerifyDiskSpace
+Address           : 0x0000000180185ef0
+Relative Address  : 0x00185ef0
+Ordinal           : 142 (0x8e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiVerifyPackageA
+Address           : 0x00000001801742e0
+Relative Address  : 0x001742e0
+Ordinal           : 156 (0x9c)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiVerifyPackageW
+Address           : 0x0000000180174450
+Relative Address  : 0x00174450
+Ordinal           : 157 (0x9d)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiViewClose
+Address           : 0x0000000180106450
+Relative Address  : 0x00106450
+Ordinal           : 158 (0x9e)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiViewExecute
+Address           : 0x000000018001ff40
+Relative Address  : 0x0001ff40
+Ordinal           : 159 (0x9f)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiViewFetch
+Address           : 0x0000000180020650
+Relative Address  : 0x00020650
+Ordinal           : 160 (0xa0)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiViewGetColumnInfo
+Address           : 0x000000018001fca0
+Relative Address  : 0x0001fca0
+Ordinal           : 166 (0xa6)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiViewGetErrorA
+Address           : 0x0000000180185fb0
+Relative Address  : 0x00185fb0
+Ordinal           : 161 (0xa1)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiViewGetErrorW
+Address           : 0x00000001801861f0
+Relative Address  : 0x001861f0
+Ordinal           : 162 (0xa2)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : MsiViewModify
+Address           : 0x0000000180186370
+Relative Address  : 0x00186370
+Ordinal           : 163 (0xa3)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+
+==================================================
+Function Name     : QueryInstanceCount
+Address           : 0x00000001801314a0
+Relative Address  : 0x001314a0
+Ordinal           : 295 (0x127)
+Filename          : msi.dll
+Full Path         : C:\Windows\System32\msi.dll
+Type              : Exported Function
+==================================================
+

@@ -1,0 +1,116 @@
+Table	Column	Nullable	MinValue	MaxValue	KeyTable	KeyColumn	Category	Set	Description
+s32	s32	s4	I4	I4	S255	I2	S32	S255	S255
+_Validation	Table	Column
+AdminExecuteSequence	Action	N					Identifier		Name of action to invoke, either in the engine or the handler DLL.
+AdminExecuteSequence	Condition	Y					Condition		Optional expression which skips the action if evaluates to expFalse.If the expression syntax is invalid, the engine will terminate, returning iesBadActionData.
+AdminExecuteSequence	Sequence	Y	-4	32767					Number that determines the sort order in which the actions are to be executed.  Leave blank to suppress action.
+AdvtExecuteSequence	Action	N					Identifier		Name of action to invoke, either in the engine or the handler DLL.
+AdvtExecuteSequence	Condition	Y					Condition		Optional expression which skips the action if evaluates to expFalse.If the expression syntax is invalid, the engine will terminate, returning iesBadActionData.
+AdvtExecuteSequence	Sequence	Y	-4	32767					Number that determines the sort order in which the actions are to be executed.  Leave blank to suppress action.
+Binary	Data	N					Binary		The unformatted binary data.
+Binary	Name	N					Identifier		Unique key identifying the binary data.
+Component	Attributes	N							Remote execution option, one of irsEnum
+Component	Component	N					Identifier		Primary key used to identify a particular component record.
+Component	ComponentId	Y					Guid		A string GUID unique to this component, version, and language.
+Component	Condition	Y					Condition		A conditional statement that will disable this component if the specified condition evaluates to the 'True' state. If a component is disabled, it will not be installed, regardless of the 'Action' state associated with the component.
+Component	Directory_	N			Directory	1	Identifier		Required key of a Directory table record. This is actually a property name whose value contains the actual path, set either by the AppSearch action or with the default setting obtained from the Directory table.
+Component	KeyPath	Y			File;Registry;ODBCDataSource	1	Identifier		Either the primary key into the File table, Registry table, or ODBCDataSource table. This extract path is stored when the component is installed, and is used to detect the presence of the component and to return the path to it.
+CustomAction	Action	N					Identifier		Primary key, name of action, normally appears in sequence table unless private use.
+CustomAction	Source	Y					CustomSource		The table reference of the source of the code.
+CustomAction	Target	Y					Formatted		Excecution parameter, depends on the type of custom action
+CustomAction	Type	N	1	32767					The numeric custom action type, consisting of source location, code type, entry, option flags.
+Directory	DefaultDir	N					DefaultDir		The default sub-path under parent's path.
+Directory	Directory	N					Identifier		Unique identifier for directory entry, primary key. If a property by this name is defined, it contains the full path to the directory.
+Directory	Directory_Parent	Y			Directory	1	Identifier		Reference to the entry in this table specifying the default parent directory. A record parented to itself or with a Null parent represents a root of the install tree.
+Error	Error	N	0	32767					Integer error number, obtained from header file IError(...) macros.
+Error	Message	Y					Template		Error formatting template, obtained from user ed. or localizers.
+Feature	Attributes	N						0;1;2;4;5;6;8;9;10;16;17;18;20;21;22;24;25;26;32;33;34;36;37;38;48;49;50;52;53;54	Feature attributes
+Feature	Description	Y					Text		Longer descriptive text describing a visible feature item.
+Feature	Directory_	Y			Directory	1	UpperCase		The name of the Directory that can be configured by the UI. A non-null value will enable the browse button.
+Feature	Display	Y	0	32767					Numeric sort order, used to force a specific display ordering.
+Feature	Feature	N					Identifier		Primary key used to identify a particular feature record.
+Feature	Feature_Parent	Y			Feature	1	Identifier		Optional key of a parent record in the same table. If the parent is not selected, then the record will not be installed. Null indicates a root item.
+Feature	Level	N	0	32767					The install level at which record will be initially selected. An install level of 0 will disable an item and prevent its display.
+Feature	Title	Y					Text		Short text identifying a visible feature item.
+FeatureComponents	Component_	N			Component	1	Identifier		Foreign key into Component table.
+FeatureComponents	Feature_	N			Feature	1	Identifier		Foreign key into Feature table.
+File	Attributes	Y	0	32767					Integer containing bit flags representing file attributes (with the decimal value of each bit position in parentheses)
+File	Component_	N			Component	1	Identifier		Foreign key referencing Component that controls the file.
+File	File	N					Identifier		Primary key, non-localized token, must match identifier in cabinet.  For uncompressed files, this field is ignored.
+File	FileName	N					Filename		File name used for installation, may be localized.  This may contain a "short name|long name" pair.
+File	FileSize	N	0	2147483647					Size of file in bytes (long integer).
+File	Language	Y					Language		List of decimal language Ids, comma-separated if more than one.
+File	Sequence	N	1	32767					Sequence with respect to the media images; order must track cabinet order.
+File	Version	Y			File	1	Version		Version string for versioned files;  Blank for unversioned files.
+Icon	Data	N					Binary		Binary stream. The binary icon data in PE (.DLL or .EXE) or icon (.ICO) format.
+Icon	Name	N					Identifier		Primary key. Name of the icon file.
+InstallExecuteSequence	Action	N					Identifier		Name of action to invoke, either in the engine or the handler DLL.
+InstallExecuteSequence	Condition	Y					Condition		Optional expression which skips the action if evaluates to expFalse.If the expression syntax is invalid, the engine will terminate, returning iesBadActionData.
+InstallExecuteSequence	Sequence	Y	-4	32767					Number that determines the sort order in which the actions are to be executed.  Leave blank to suppress action.
+Media	Cabinet	Y					Cabinet		If some or all of the files stored on the media are compressed in a cabinet, the name of that cabinet.
+Media	DiskId	N	1	32767					Primary key, integer to determine sort order for table.
+Media	DiskPrompt	Y					Text		Disk name: the visible text actually printed on the disk.  This will be used to prompt the user when this disk needs to be inserted.
+Media	LastSequence	N	0	32767					File sequence number for the last file for this media.
+Media	Source	Y					Property		The property defining the location of the cabinet file.
+Media	VolumeLabel	Y					Text		The label attributed to the volume.
+ModuleAdminExecuteSequence	Action	N					Identifier		Action to insert
+ModuleAdminExecuteSequence	After	Y	0	1					Before (0) or After (1)
+ModuleAdminExecuteSequence	BaseAction	Y			ModuleAdminExecuteSequence	1	Identifier		Base action to determine insert location.
+ModuleAdminExecuteSequence	Condition	Y					Condition		
+ModuleAdminExecuteSequence	Sequence	Y	-4	32767					Standard Sequence number
+ModuleAdminUISequence	Action	N					Identifier		Action to insert
+ModuleAdminUISequence	After	Y	0	1					Before (0) or After (1)
+ModuleAdminUISequence	BaseAction	Y			ModuleAdminUISequence	1	Identifier		Base action to determine insert location.
+ModuleAdminUISequence	Condition	Y					Condition		
+ModuleAdminUISequence	Sequence	Y	-4	32767					Standard Sequence number
+ModuleAdvtExecuteSequence	Action	N					Identifier		Action to insert
+ModuleAdvtExecuteSequence	After	Y	0	1					Before (0) or After (1)
+ModuleAdvtExecuteSequence	BaseAction	Y			ModuleAdvtExecuteSequence	1	Identifier		Base action to determine insert location.
+ModuleAdvtExecuteSequence	Condition	Y					Condition		
+ModuleAdvtExecuteSequence	Sequence	Y	-4	32767					Standard Sequence number
+ModuleDependency	ModuleID	N			ModuleSignature	1	Identifier		Module requiring the dependency.
+ModuleDependency	ModuleLanguage	N			ModuleSignature	2			Language of module requiring the dependency.
+ModuleDependency	RequiredID	N							String.GUID of required module.
+ModuleDependency	RequiredLanguage	N							LanguageID of the required module.
+ModuleDependency	RequiredVersion	Y					Version		Version of the required version.
+ModuleExclusion	ExcludedID	N							String.GUID of excluded module.
+ModuleExclusion	ExcludedLanguage	N							Language of excluded module.
+ModuleExclusion	ExcludedMaxVersion	Y					Version		Maximum version of excluded module.
+ModuleExclusion	ExcludedMinVersion	Y					Version		Minimum version of excluded module.
+ModuleExclusion	ModuleID	N			ModuleSignature	1	Identifier		String.GUID of module with exclusion requirement.
+ModuleExclusion	ModuleLanguage	N			ModuleSignature	2			LanguageID of module with exclusion requirement.
+ModuleInstallExecuteSequence	Action	N					Identifier		Action to insert
+ModuleInstallExecuteSequence	After	Y	0	1					Before (0) or After (1)
+ModuleInstallExecuteSequence	BaseAction	Y			ModuleInstallExecuteSequence	1	Identifier		Base action to determine insert location.
+ModuleInstallExecuteSequence	Condition	Y					Condition		
+ModuleInstallExecuteSequence	Sequence	Y	-4	32767					Standard Sequence number
+ModuleInstallUISequence	Action	N					Identifier		Action to insert
+ModuleInstallUISequence	After	Y	0	1					Before (0) or After (1)
+ModuleInstallUISequence	BaseAction	Y			ModuleInstallUISequence	1	Identifier		Base action to determine insert location.
+ModuleInstallUISequence	Condition	Y					Condition		
+ModuleInstallUISequence	Sequence	Y	-4	32767					Standard Sequence number
+ModuleSignature	Language	N							Default decimal language of module.
+ModuleSignature	ModuleID	N					Identifier		Module identifier (String.GUID).
+ModuleSignature	Version	N					Version		Version of the module.
+MsiPatchHeaders	Header	N					Binary		Binary stream. The patch header, used for patch validation.
+MsiPatchHeaders	StreamRef	N					Identifier		Primary key. A unique identifier for the row.
+MsiPatchMetaData	Company	Y					Identifier		Name of company. Null for standard MSI metadata properties. Non-null for company specific metadata. Patch-only table.
+MsiPatchMetaData	Property	N					Identifier		Name of property. Never null or empty. Patch-only table.
+MsiPatchMetaData	Value	N					Text		String value for property.  Never null or empty. Patch-only table.
+MsiPatchOldAssemblyFile	Assembly_	N			MsiPatchOldAssemblyName	1	Identifier		Foreign key into MsiPatchOldAssemblyName table.
+MsiPatchOldAssemblyFile	File_	N			File	1	Identifier		Foreign key into File table. Patch-only table.
+MsiPatchOldAssemblyName	Assembly	N					Identifier		A unique identifier for the row.
+MsiPatchOldAssemblyName	Name	N					Text		The name part of the name-value pairs for the assembly name. This represents the old name for the assembly.
+MsiPatchOldAssemblyName	Value	N					Text		The value part of the name-value pairs for the assembly name. This represents the old name for the assembly.
+Property	Property	N					Identifier		Name of property, uppercase if settable by launcher or loader.
+Property	Value	N					Text		String value for property.  Never null or empty.
+_Validation	Category	Y						Text;Formatted;Template;Condition;Guid;Path;Version;Language;Identifier;Binary;UpperCase;LowerCase;Filename;Paths;AnyPath;WildCardFilename;RegPath;KeyFormatted;CustomSource;Property;Cabinet;Shortcut;URL	String category
+_Validation	Column	N					Identifier		Name of column
+_Validation	Description	Y					Text		Description of column
+_Validation	KeyColumn	Y	1	32					Column to which foreign key connects
+_Validation	KeyTable	Y					Identifier		For foreign key, Name of table to which data must link
+_Validation	MaxValue	Y	-2147483647	2147483647					Maximum value allowed
+_Validation	MinValue	Y	-2147483647	2147483647					Minimum value allowed
+_Validation	Nullable	N						Y;N	Whether the column is nullable
+_Validation	Set	Y					Text		Set of values that are permitted
+_Validation	Table	N					Identifier		Name of table

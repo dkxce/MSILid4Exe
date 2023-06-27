@@ -1,0 +1,20 @@
+Property	Value
+s72	l0
+Property	Property
+ALLUSERS	1
+ARPCONTACT	info@driver-updater.com
+ARPHELPLINK	http://driver-updater.com
+ARPNOMODIFY	1
+ARPNOREMOVE	1
+ARPNOREPAIR	1
+ARPPRODUCTICON	ARPPRODUCTICON.exe
+ARPURLINFOABOUT	http://driver-updater.com
+DISPLAYLANGUAGE	EN
+LIMITUI	1
+MSIFASTINSTALL	7
+Manufacturer	Venetum Limited
+ProductCode	{8F41CB95-7033-48E7-997D-FD8C1BA7FF01}
+ProductLanguage	1033
+ProductName	Driver Updater Installer
+ProductVersion	1.1.1.1
+UpgradeCode	{8F41CB95-7033-48E7-997D-FD8C1BA7FF02}

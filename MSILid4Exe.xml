@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>  
+  
+  <FileName>%CD%\*.exe</FileName>
+  <FileRegex>^(?&lt;FileName&gt;(?!MSILid4Exe).*\.exe)$</FileRegex>  
+  <CmdArgs>/dkxce</CmdArgs>  
+  <SelectFile>1</SelectFile>
+  
+  <SummaryInfo>
+	  <Property name="Author">$FILE_COMPANY$</Property>
+	  <Property name="Comments">https://github.com/dkxce/MSILid4Exe</Property>
+	  <Property name="Keywords">$PRODUCT_NAME$ Setup Installer</Property>
+	  <Property name="LastSavedBy">MSILid4Exe</Property>
+	  <Property name="RevisionNumber">{8F41CB95-0000-0000-0000-FD8C1BA7FF03}</Property>
+	  <Property name="Subject">$PRODUCT_NAME$</Property>
+	  <Property name="Title">$PRODUCT_NAME$ Installer</Property>
+  </SummaryInfo>
+  
+  <Properties>
+    <Property name="ARPCONTACT">https://github.com/dkxce</Property>
+    <Property name="ARPHELPLINK">https://github.com/dkxce/MSILid4Exe</Property>
+    <Property name="ARPURLINFOABOUT">https://github.com/dkxce/MSILid4Exe</Property>
+    <Property name="Manufacturer">$FILE_COMPANY$</Property>
+    <Property name="ProductName">$PRODUCT_NAME$ Installer</Property>
+    <Property name="ProductVersion">$PRODUCT_VERSION$</Property>
+    <Property name="ProductCode">{8F41CB95-0000-0000-0000-FD8C1BA7FF01}</Property>
+    <Property name="UpgradeCode">{8F41CB95-0000-0000-0000-FD8C1BA7FF02}</Property>
+    <Property name="ARPPRODUCTICON">%FileName%.ico</Property>
+    <Property name="DISPLAYLANGUAGE">EN</Property>
+  </Properties>
+  
+  <OnDone>notepad.exe MSILid4Exe.log</OnDone>
+  <!--OnDone>_MSILid4Exe.cmd</OnDone-->
+  <!--OnDone>MSILid4Exe.cmd</OnDone-->
+  
+  <!-- 
+	PROPERTIES REPLACEMENTS:
+	
+	%CD% - Current Directory
+	
+	%ENVIRONMENT_VARIABLE% - Windows Environment Variables
+	%ALLUSERSPROFILE%
+	%APPDATA%
+	%CommonProgramFiles%
+	%COMMONPROGRAMFILES(x86)%
+	%COMPUTERNAME%
+	%DATE%
+	%HOMEDRIVE%
+	%HOMEPATH%
+	%LOCALAPPDATA%
+	%PROCESSOR_ARCHITECTURE%
+	%ProgramData%
+	%ProgramFiles%
+	%ProgramFiles(x86)%
+	%ProgramW6432%
+	%Public%
+	%RANDOM%
+	%SYSTEMDRIVE%
+	%SYSTEMROOT%
+	%TEMP%
+	%TIME%
+	%TMP%
+	%USERNAME%
+	%USERPROFILE%
+	%WINDIR%
+	
+	%ANY_NAME% - FOR REPLACE WITH REGEX (?<ANY_NAME>...)
+	%FileName% 
+	%FileVersion% 
+	
+	$FILE_COMPANY$
+	$FILE_DESCRIPTION$
+	$FILE_COMMENT$
+	$FILE_COMMENT$
+	$FILE_VERSION$
+	$FILE_LANGUAGE$
+	$FILE_COPYRIGHTS$
+	$PRODUCT_NAME$
+	$PRODUCT_VERSION$
+  -->
+  
+</Config>

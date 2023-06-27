@@ -1,0 +1,67 @@
+Action	Condition	Sequence
+s72	S255	I2
+InstallExecuteSequence	Action
+AllocateRegistrySpace	NOT Installed	1550
+AppSearch		100
+BindImage		4300
+CCPSearch	NOT Installed	500
+CostFinalize		1000
+CostInitialize		800
+CreateFolders		3700
+CreateShortcuts		4500
+DIRCA_TARGETDIR	TARGETDIR=""	750
+DeleteServices	VersionNT	2000
+DuplicateFiles		4210
+FileCost		900
+FindRelatedProducts		200
+InstallExecute		6500
+InstallFiles		4000
+InstallFinalize		6600
+InstallInitialize		1500
+InstallODBC		5400
+InstallServices	VersionNT	5800
+InstallValidate		1400
+IsolateComponents	RedirectedDllSupport	950
+LaunchConditions	NOT Installed	400
+MoveFiles		3800
+MsiPublishAssemblies		6250
+MsiUnpublishAssemblies		1650
+PatchFiles		4090
+ProcessComponents		1600
+PublishComponents		6200
+RMCCPSearch	NOT Installed	600
+RegisterClassInfo		4600
+RegisterComPlus		5700
+RegisterExtensionInfo		4700
+RegisterFonts		5300
+RegisterMIMEInfo		4900
+RegisterProgIdInfo		4800
+RegisterTypeLibraries		5500
+RemoveDuplicateFiles		3400
+RemoveEnvironmentStrings		3300
+RemoveExistingProducts		6550
+RemoveFiles		3500
+RemoveFolders		3600
+RemoveIniValues		3100
+RemoveODBC		2400
+RemoveRegistryValues		2600
+RemoveShortcuts		3200
+SelfRegModules		5600
+SelfUnregModules		2200
+SetODBCFolders	NOT Installed	1100
+StartServices	VersionNT	5900
+StopServices	VersionNT	1900
+UnpublishComponents		1700
+UnpublishFeatures		1800
+UnregisterClassInfo		2700
+UnregisterComPlus		2100
+UnregisterExtensionInfo		2800
+UnregisterFonts		2500
+UnregisterMIMEInfo		3000
+UnregisterProgIdInfo		2900
+UnregisterTypeLibraries		2300
+ValidateProductID		700
+WriteEnvironmentStrings		5200
+WriteIniValues		5100
+WriteRegistryValues		5000
+_B3D13F97_1369_417D_A477_B4C42B829328	NOT REMOVE~="ALL"	5999
