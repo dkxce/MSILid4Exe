@@ -1,12 +1,13 @@
-## Free StandAlone EXE TO MSI CONVERTER ###
 # MSILid4Exe
-MSI skin cover  creator for exe setup/installer
+### EXE TO MSI CONVERTER | Free EXE TO MSI CONVERTER | StandAlone EXE TO MSI CONVERTER    
+
+MSI skin cover  creator for exe setup/installer based on msi.dll
 
 **Usage**:     
-Edit ```MSILid4Exe.xml``` & Run ```MSILid4Exe.exe```       
+Edit ```MSILid4Exe.xml``` & Run ```MSILid4Exe.exe``` (in directory with executable installer)      
 
 **Usage**:        
->```MSILid4Exe.exe [config_file]``` - config_file (.xml) is optional
+>```MSILid4Exe.exe [config_file]``` - [config_file (.xml)](MSILid4Exe.xml) is optional
 
 ```
 **More Info**:
@@ -21,6 +22,9 @@ Edit ```MSILid4Exe.xml``` & Run ```MSILid4Exe.exe```
 - https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b
 - https://dennisbareis.com/makemsi.htm            
  ```
+
+**Config**:    
+[MSILid4Exe.xml](MSILid4Exe.xml)
 
 **Format**:          
 [Microsoft Compound File Binary Format]([MS-CFB].pdf)     
