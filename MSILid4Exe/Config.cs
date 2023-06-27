@@ -1,7 +1,7 @@
 ﻿//
 // C# 
 // MSILid4Exe Config
-// v 0.3, 24.06.2023
+// v 0.3, 27.06.2023
 // https://github.com/dkxce
 // en,ru,1251,utf-8
 //
