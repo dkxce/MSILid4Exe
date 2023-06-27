@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{49D8F4DD-65F7-427D-B8DE-A42BB5013DF5}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MSILid4Exe</RootNamespace>
+    <AssemblyName>MSILid4Exe</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ActionResult.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\BadQuerySyntaxException.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ColumnCollection.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ColumnInfo.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ComponentAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ComponentInfo.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ComponentInfoCollection.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ComponentInstallation.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ControlAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\CustomActionAttribute.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\CustomActionData.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\CustomActionProxy.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\CustomActionTypes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\Database.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\DatabaseOpenMode.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\DialogAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\EmbeddedUIProxy.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ExternalUIHandler.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ExternalUIProxy.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ExternalUIRecordHandler.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ExternalUIRecordProxy.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\FeatureAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\FeatureInfo.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\FeatureInfoCollection.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\FeatureInstallation.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\FileAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\IEmbeddedUI.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InapplicablePatchHandler.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\IniFileAction.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\Installation.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallationPart.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallCanceledException.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallCost.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\Installer.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallerException.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallerHandle.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallLogModes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallMessage.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallMode.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallRunMode.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallState.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallType.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InstallUIOptions.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\InvalidHandleException.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\IStorage.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\LocatorTypes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MediaDisk.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MergeException.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MessageBoxStyles.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MessageButtons.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MessageDefaultButton.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MessageIcon.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MessageResult.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\MsiRemoteInvoke.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\NativeExternalUIHandler.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\NativeExternalUIRecordHandler.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\NativeMethods.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\PatchInstallation.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\PatchStates.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ProductInstallation.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\Record.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\RecordStream.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\RegistryRoot.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ReinstallModes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\RemotableNativeMethods.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\RemoteMsiFunctionId.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\RemoveFileModes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ServiceAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ServiceControlEvents.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\Session.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ShortcutTarget.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\SourceList.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\SourceMediaList.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\SummaryInfo.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\TableCollection.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\TableInfo.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\TextStyles.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\Transaction.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\TransactionAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\TransformErrors.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\TransformValidations.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\UpgradeAttributes.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\UserContexts.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ValidationError.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ValidationErrorInfo.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\View.cs" />
+    <Compile Include="Microsoft.Deployment.WindowsInstaller\ViewModifyMode.cs" />
+    <Compile Include="MSI.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="XMLSaved.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Resources\MSILid4Exe.cmd" />
+    <None Include="Resources\template.msi" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\MSILid4Exe.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

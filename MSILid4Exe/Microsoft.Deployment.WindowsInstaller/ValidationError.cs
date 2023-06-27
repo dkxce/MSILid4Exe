@@ -1,0 +1,36 @@
+namespace Microsoft.Deployment.WindowsInstaller
+{
+	public enum ValidationError
+	{
+		None,
+		DuplicateKey,
+		Required,
+		BadLink,
+		Overflow,
+		Underflow,
+		NotInSet,
+		BadVersion,
+		BadCase,
+		BadGuid,
+		BadWildcard,
+		BadIdentifier,
+		BadLanguage,
+		BadFileName,
+		BadPath,
+		BadCondition,
+		BadFormatted,
+		BadTemplate,
+		BadDefaultDir,
+		BadRegPath,
+		BadCustomSource,
+		BadProperty,
+		MissingData,
+		BadCategory,
+		BadKeyTable,
+		BadMaxMinValues,
+		BadCabinet,
+		BadShortcut,
+		StringOverflow,
+		BadLocalizeAttrib
+	}
+}
